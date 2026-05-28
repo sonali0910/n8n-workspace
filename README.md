@@ -146,7 +146,7 @@ cd equity-portfolio-rebalancer
 3. Select:
 
 ```bash
-Equity Portfolio Rebalancer(1).json
+Equity Portfolio Rebalancer.json
 ```
 
 ---
